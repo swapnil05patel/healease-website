@@ -1,0 +1,71 @@
+{
+    "skin_conditions": [
+        "Acne",
+        "Eczema",
+        "Psoriasis",
+        "Contact Dermatitis",
+        "Fungal Infection",
+        "Rosacea",
+        "Melanoma",
+        "Basal Cell Carcinoma",
+        "Urticaria",
+        "Vitiligo",
+        "Impetigo",
+        "Shingles",
+        "Cellulitis",
+        "Scabies",
+        "Warts"
+    ],
+    "Allopathy": {
+        "Acne": "I have red, itchy skin with severe dry patches on my arms. The skin feels inflamed and burns when touched. It gets worse with stress and hot water.or oral antibiotics.",
+        "Eczema": "A chronic inflammatory skin condition causing dry, itchy patches. Treatment includes moisturizers and topical corticosteroids.",
+        "Psoriasis": "An autoimmune condition causing red, scaly patches. Requires medical management with topical treatments or systemic medications.",
+        "Contact Dermatitis": "Skin inflammation caused by contact with irritants or allergens. Treatment involves avoiding triggers and using anti-inflammatory medications.",
+        "Fungal Infection": "A skin infection caused by fungi, typically treated with antifungal medications.",
+        "Rosacea": "A chronic condition causing facial redness and bumps, managed with specific medications and lifestyle changes.",
+        "Melanoma": "A serious form of skin cancer requiring immediate medical attention and surgical intervention.",
+        "Basal Cell Carcinoma": "A type of skin cancer that requires medical evaluation and treatment.",
+        "Urticaria": "Hives caused by allergic reactions, treated with antihistamines and identifying triggers.",
+        "Vitiligo": "A condition causing loss of skin pigmentation, requiring dermatological evaluation and treatment.",
+        "Impetigo": "A bacterial skin infection requiring antibiotic treatment.",
+        "Shingles": "   .",
+        "Cellulitis": "A bacterial skin infection requiring prompt antibiotic treatment.",
+        "Scabies": "A parasitic skin infestation requiring specific medications for treatment.",
+        "Warts": "Viral growths that can be treated with various medical procedures."
+    },
+    "Ayurveda_recommendations": {
+        "Acne": "Consider Neem-based treatments and blood-purifying herbs like Manjistha. Follow a Pitta-balancing diet.",
+        "Eczema": "Use natural oils like coconut oil with turmeric. Consider herbs like Guduchi for immune balance.",
+        "Psoriasis": "Panchakarma therapy may be beneficial. Use herbs like Kutki and follow a Vata-Kapha balancing diet.",
+        "Contact Dermatitis": "Apply natural cooling agents like Aloe Vera. Consider herbs like Manjistha for skin health.",
+        "Fungal Infection": "Use antimicrobial herbs like Neem and Haridra. Follow Kapha-reducing diet."
+    },
+    "Homeopathy_recommendations": {
+        "Acne": "Consult for remedies like Hepar Sulph or Silicea based on specific symptoms.",
+        "Eczema": "Constitutional treatment may include remedies like Graphites or Sulphur.",
+        "Psoriasis": "Consider remedies like Arsenicum Album or Thyroidinum based on symptoms.",
+        "Contact Dermatitis": "Remedies like Rhus Tox or Apis Mellifica may be prescribed.",
+        "Fungal Infection": "Remedies like Bacillinum or Thuja may be considered."
+    },
+    "Unani_recommendations": {
+        "Acne": "Consider blood purifying herbs and follow a balanced temperament diet.",
+        "Eczema": "Use natural oils and herbs to restore skin balance.",
+        "Psoriasis": "Dietary modifications and herbal preparations may be prescribed.",
+        "Contact Dermatitis": "Apply cooling and soothing natural preparations.",
+        "Fungal Infection": "Use antimicrobial herbs and maintain proper hygiene."
+    },
+    "Siddha_recommendations": {
+        "Acne": "Internal purification and external applications of herbal preparations.",
+        "Eczema": "Consider traditional herbal oils and medicines.",
+        "Psoriasis": "Treatment focuses on balancing the three humors.",
+        "Contact Dermatitis": "Use traditional herbal applications and dietary changes.",
+        "Fungal Infection": "Apply medicated oils and follow prescribed diet."
+    },
+    "Yoga_skin_recommendations": {
+        "Acne": "Practice pranayama and facial yoga. Include stress-reducing asanas.",
+        "Eczema": "Gentle yoga with emphasis on relaxation and stress reduction.",
+        "Psoriasis": "Sun salutations and stress-management through meditation.",
+        "Contact Dermatitis": "Gentle stretching and breathing exercises.",
+        "Fungal Infection": "Practice hygiene-focused yoga and breathing exercises."
+    }
+}
