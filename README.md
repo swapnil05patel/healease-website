@@ -2,12 +2,13 @@
 
 ## Project info
 
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-Changes made via Lovable will be committed automatically to this repo.
+Developed a
+Python (FastAPI) smart health
+assistant with ML/DL for skin disease
+prediction, expanding to heart health
+analysis, and built a responsive
+frontend using Vite, TypeScript, React,
+Tailwind CSS, and shadcn-ui.
 
 **Use your preferred IDE**
 
